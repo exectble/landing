@@ -1,0 +1,176 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+}
+
+header {
+	background: url(../img/bg.png) no-repeat;
+}
+
+div,form,a,img,p {
+	box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	padding: 0;
+	margin: 0;
+}
+
+hr {
+	padding: 0;
+	margin: 0;
+}
+
+ul, li {
+	display: block;
+	padding: 0;
+	margin: 0;
+}
+
+.container {
+	width: 1204px;
+	margin: 0 auto;
+}
+
+
+nav {
+	display: flex;
+	align-items: center;
+	padding-top: 25px;
+}
+
+
+
+
+#services {
+	background: #EDEDED;
+}
+
+h2 {
+	padding-top: 102px;
+	text-align: center;
+	font-size: 40px;
+	font-weight: 700;
+	color: #2E2E2E;
+	letter-spacing: 0.015em;
+}
+
+.services1 {
+	display: flex;
+	margin-top: 45px;
+}
+
+.services_item1 {
+	background: #fff;
+	margin-right: 20px;
+	height: 400px;
+}
+
+.services_item1 img {
+	margin-left: 90px;
+	margin-top: 30px;
+	padding-right: 93px;
+	padding-bottom: 23px;
+}
+
+.services_item1 h3 {
+	text-align: center;
+	font-size: 20px;
+	font-weight: 500;
+	letter-spacing: 0.015em;
+	color: #2E2E2E;
+}
+
+.services_item1 p {
+	margin-top: 25px;
+	text-align: center;
+	font-family: Times New Roman, sans-serif;
+	font-weight: normal;
+	color: #504E4E;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding-bottom: 25px;
+}
+
+.services_item1 a {
+	width: 133px;
+	display: block;
+	text-decoration: none;
+	text-align: center;
+	color: #FF7A00;
+	text-transform: uppercase;
+	letter-spacing: 0.015em;
+	margin-left: 127px;
+	font-weight: 500;
+}
+
+.services2 {
+	display: flex;
+	margin-top: 45px;
+}
+
+.services_item2 {
+	background: #fff;
+	margin-right: 20px;
+	height: 400px;
+}
+
+.services_item2 img {
+	margin-left: 90px;
+	margin-top: 30px;
+	padding-right: 93px;
+	padding-bottom: 23px;
+}
+
+.services_item2 h3 {
+	text-align: center;
+	font-size: 20px;
+	font-weight: 500;
+	letter-spacing: 0.015em;
+	color: #2E2E2E;
+}
+
+.services_item2 p {
+	margin-top: 25px;
+	text-align: center;
+	font-family: Times New Roman, sans-serif;
+	font-weight: normal;
+	color: #504E4E;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding-bottom: 25px;
+}
+
+.services_item2 a {
+	width: 133px;
+	display: block;
+	text-decoration: none;
+	text-align: center;
+	color: #FF7A00;
+	text-transform: uppercase;
+	letter-spacing: 0.015em;
+	margin-left: 127px;
+	font-weight: 500;
+}
+
+.fix p {
+	margin-top: 25px;
+	text-align: center;
+	font-family: Times New Roman, sans-serif;
+	font-weight: normal;
+	color: #504E4E;
+	margin-left: 30px;
+	margin-right: 30px;
+	padding-bottom: 25px;
+}
+
+.feedback {
+	background: #EDEDED;
+	padding-bottom: 10px;
+}
