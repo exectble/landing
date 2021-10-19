@@ -229,7 +229,7 @@ setcookie("counter",$counter);
 					<td>20000</td>
 				</tr>
 			</table>
-			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21671.98884115032!2d39.71829409821354!3d47.23617316634643!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40e3bbd25efc8dab%3A0xe71795934da757ba!2z0JTQk9Ci0KM!5e0!3m2!1sru!2sru!4v1615817433860!5m2!1sru!2sru" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21671.98884115032!2d39.71829409821354!3d47.23617316634643!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40e3bbd25efc8dab%3A0xe71795934da757ba!2z0JTQk9Ci0KM!5e0!3m2!1sru!2sru!4v1615817433860!5m2!1sru!2sru" width="1204" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 		</div>
 	</section>
 	<section id="partners" class="partners">
